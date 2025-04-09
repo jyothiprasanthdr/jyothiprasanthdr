@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hey there! I’m Jyothi Prasanth, a Data Scientist & Machine Learning Engineer 🤖🚀<br><br>🔍 Passionate about solving complex problems with data and AI, I specialize in building predictive models, deep learning solutions, and scalable ML pipelines that drive real-world impact.<br><br>👨‍💻 What I Do<br>📊 Data Science & AI: Predictive analytics, NLP, and time-series forecasting<br>🧠 Machine Learning: LSTM, LightGBM, XGBoost, and model optimization<br>☁ MLOps & Cloud: Deploying ML models on AWS, Render, CI/CD automation<br>💡 End-to-End ML Solutions: From data preprocessing to deployment<br><br>🏆 Highlights<br>🏅 Ranked 33rd out of 708 in a Machine Learning Hackathon<br>📚 Published research with 76+ citations on Google Scholar<br>📈 Developed ML models for:<br><br>Temperature forecasting 🌡️<br><br>News category classification 📰<br><br>Crypto price movement prediction 📉<br><br>🚀 Let’s Connect & Innovate<br>Always exploring the latest in AI, Deep Learning, and Data Science—let’s collaborate!<br><br>
+Hey there! I’m Jyothi Prasanth, a Data Scientist & Machine Learning Engineer 🤖🚀<br><br>🔍 Passionate about solving complex problems with data and AI, I specialize in building predictive models, deep learning solutions, and scalable ML pipelines that drive real-world impact.<br><br>👨‍💻 What I Do<br>📊 Data Science & AI: Predictive analytics, NLP, and time-series forecasting<br>🧠 Machine Learning: LSTM, LightGBM, XGBoost, and model optimization<br>☁ MLOps & Cloud: Deploying ML models on AWS, Render, CI/CD automation<br>💡 End-to-End ML Solutions: From data preprocessing to deployment<br><br>🏆 Highlights<br>
+🏅 Ranked 33rd out of 708 in the Fibe - Hack the Vibe! 2.0 - ML Challenge<br>
+📚 Published peer-reviewed research with 76+ citations on Google Scholar<br>
+📈 Developed and deployed ML models for:<br><br>
+🔍 NLP-based project classification for 100+ AES initiatives<br>
+🌡️ Temperature & sales forecasting using time series models (ARIMA, Prophet)<br>
+📰 News and depression classification using BiLSTM & transformer models<br>
+📉 Crypto and real estate price prediction using XGBoost & historical data<br><br>
+🚀 Let’s Connect & Innovate<br>
+Always exploring the latest in AI, Deep Learning, and Data Science—let’s collaborate!<br><br>
+
 
 
 ## 🌐 Socials:
